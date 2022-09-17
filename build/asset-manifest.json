@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rcaddition/static/css/main.b7702082.css",
-    "main.js": "/rcaddition/static/js/main.20409f61.js",
-    "index.html": "/rcaddition/index.html",
-    "main.b7702082.css.map": "/rcaddition/static/css/main.b7702082.css.map",
-    "main.20409f61.js.map": "/rcaddition/static/js/main.20409f61.js.map"
+    "main.css": "/rcadd/static/css/main.b7702082.css",
+    "main.js": "/rcadd/static/js/main.20409f61.js",
+    "index.html": "/rcadd/index.html",
+    "main.b7702082.css.map": "/rcadd/static/css/main.b7702082.css.map",
+    "main.20409f61.js.map": "/rcadd/static/js/main.20409f61.js.map"
   },
   "entrypoints": [
     "static/css/main.b7702082.css",
